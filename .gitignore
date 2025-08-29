@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+# R
+.Rproj.user/
+.Rhistory
+.RData
+# Node
+node_modules/
+# Build
+dist/
+build/
+*.html
+*.pdf
+# Env
+.env
+.env.*
+# OS/IDE
+.DS_Store
+.vscode/
