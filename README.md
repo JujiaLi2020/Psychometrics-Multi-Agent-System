@@ -1,3 +1,6 @@
+9/1/2025
+Set up a UI for data management.
+
 
 8/31/2025 
 All five agents have been set on individual docker containers.
@@ -44,5 +47,6 @@ Invoke-WebRequest -Uri "http://localhost:8005/run" `
 
 
 docker compose -f infra/docker-compose.prod.yml up -d --build
+
 
 
